@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    list-style: inside
+}
+
+h1 {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    font-size: large;
+    color: black;
+    background-color: violet;
+}
+
+p {
+    font-size: larger;
+    font-weight: bold;
+}
